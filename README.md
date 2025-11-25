@@ -4,7 +4,7 @@
 <br>
 🌱 Atualmente estou trabalhando na TBDC Agro Software.
 <br>
-🛠️ Aprendendo sobre MySQL
+🛠️ Aprendendo sobre MySQL e Power BI
 <br>
 
 ## 🌐 Contatos:
