@@ -1,6 +1,6 @@
 # Olá, sou o João Faccio! 👋
 
-💡 Estou cursando o 5º semestre de Engenharia de Software.
+💡 Estou cursando o 6º semestre de Engenharia de Software.
 <br>
 🌱 Atualmente estou trabalhando na TBDC Agro Software.
 <br>
