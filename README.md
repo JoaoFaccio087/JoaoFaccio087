@@ -1,22 +1,50 @@
-# Olá, sou o João Faccio! 👋
+<div align="center">
 
-💡 Estou cursando o 6º semestre de Engenharia de Software.
-<br>
-🌱 Atualmente estou trabalhando na TBDC Agro Software.
-<br>
-🛠️ Aprendendo sobre MySQL e Power BI
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=560&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Faccio;Estudante+de+Engenharia+de+Software;Evoluindo+um+commit+de+cada+vez" alt="typing" />
 
-## 🌐 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-faccio-a28816324/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaofaccio210@gmail.com) 
+</div>
 
-## 💻 Habilidades:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## Sobre mim
 
+- Estudante de Engenharia de Software
+- Product Owner na TBDC Agro Software
+- Cuiabá - MT, Brasil
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,powerbi,figma,notion,git,github" alt="tecnologias" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&theme=transparent" alt="top langs" />
+</div>
+
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoFaccio087/JoaoFaccio087/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoFaccio087/JoaoFaccio087/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JoaoFaccio087/JoaoFaccio087/output/pacman-contribution-graph.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpkcHlkYXp5aTk4ZnoyNWVrNGowaWo0eml4YnY0amdibjZ0cHAzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.gif" width="180" alt="batman" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-faccio-a28816324/"><img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:joaofaccio210@gmail.com"><img height="30" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" /></a>
+
+</div>
