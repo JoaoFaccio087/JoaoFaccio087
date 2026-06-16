@@ -39,10 +39,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/szG01SjYmo9dzm3nyR/giphy.gif" width="180" alt="sticker" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/jo%C3%A3o-faccio-a28816324/"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
