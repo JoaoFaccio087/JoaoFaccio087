@@ -19,8 +19,8 @@
 <br/>
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&theme=transparent&locale=pt-br" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="linguagens" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&locale=pt-br" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&bg_color=00000000&locale=pt-br" alt="linguagens" />
 </div>
 
 ## Contribuições
