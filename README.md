@@ -12,18 +12,50 @@
 
 <br/>
 
+<details open>
+<summary><b>Tecnologias</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Linguagens e Banco de Dados</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,mysql" alt="linguagens" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Ferramentas e Plataformas</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=figma,notion,git,github" alt="ferramentas" />
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
+<summary><b>Estatísticas</b></summary>
+
+<br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,powerbi,figma,notion,git,github" alt="tecnologias" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&locale=pt-br&cache_seconds=86400" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&bg_color=00000000&locale=pt-br&cache_seconds=86400" alt="linguagens" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&locale=pt-brcache_seconds=86400" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&bg_color=00000000&locale=pt-brcache_seconds=86400" alt="linguagens" />
+  <img src="https://streak-stats.demolab.com?user=JoaoFaccio087&hide_border=true&background=00000000&locale=pt_BR" alt="streak" />
 </div>
 
-## Contribuições
+</details>
+
+<details>
+<summary><b>Contribuições</b></summary>
+
+<br/>
 
 <div align="center">
 
@@ -35,12 +67,12 @@
 
 </div>
 
+</details>
+
 <br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-faccio-a28816324/"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-
-</div>
+<a href="mailto:joaofaccio210@gmail.com"><img
