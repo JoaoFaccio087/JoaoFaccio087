@@ -63,7 +63,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Contribuições</b></summary>
 
 <br/>
