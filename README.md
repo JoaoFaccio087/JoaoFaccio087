@@ -44,17 +44,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img height="155" src="./profile/stats.svg" alt="stats" />
+    <img align="top" src="./profile/stats.svg" alt="stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <img height="155" src="./profile/top-langs.svg" alt="linguagens" />
+    <img align="top" src="./profile/top-langs.svg" alt="linguagens" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
     <img src="./profile/streak.svg" alt="streak" />

@@ -76,28 +76,34 @@ function range(start, end) {
   return start === end ? fmt(start) : `${fmt(start, !sameYear)} – ${fmt(end)}`;
 }
 
+// Mesmas cores dos temas "default" e "github_dark" do github-readme-stats,
+// para o card combinar com os de stats e linguagens.
 const THEMES = {
-  light: { text: "#1f2328", muted: "#59636e", accent: "#1a7f37", ring: "#2da44e", line: "#d0d7de" },
-  dark: { text: "#e6edf3", muted: "#9198a1", accent: "#3fb950", ring: "#2ea043", line: "#30363d" },
+  light: { title: "#2f80ed", text: "#434d58", muted: "#6e7781", ring: "#2f80ed", line: "#d0d7de" },
+  dark: { title: "#58a6ff", text: "#c3d1d9", muted: "#8b949e", ring: "#58a6ff", line: "#30363d" },
 };
+
+// Largura = dois cards de 400px lado a lado + o espaço entre eles no README.
+export const WIDTH = 804;
+const HEIGHT = 195;
 
 export function renderSvg(s, theme) {
   const c = THEMES[theme];
-  const font = `font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif"`;
-  const col = (x, value, label, sub, color = c.text) => `
-    <text x="${x}" y="88" text-anchor="middle" ${font} font-size="28" font-weight="700" fill="${color}">${value}</text>
-    <text x="${x}" y="122" text-anchor="middle" ${font} font-size="13" font-weight="600" fill="${color}">${label}</text>
-    <text x="${x}" y="144" text-anchor="middle" ${font} font-size="12" fill="${c.muted}">${sub}</text>`;
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Sequência de contribuições">
-  <rect width="495" height="195" rx="6" fill="none"/>
-  <line x1="165" y1="40" x2="165" y2="155" stroke="${c.line}"/>
-  <line x1="330" y1="40" x2="330" y2="155" stroke="${c.line}"/>
-  <circle cx="247.5" cy="78" r="40" fill="none" stroke="${c.ring}" stroke-width="5"/>
-  ${col(82.5, s.total.toLocaleString("pt-BR"), "Total de contribuições", range(s.firstDate, s.lastDate))}
-  <text x="247.5" y="88" text-anchor="middle" ${font} font-size="28" font-weight="700" fill="${c.text}">${s.current.len}</text>
-  <text x="247.5" y="146" text-anchor="middle" ${font} font-size="14" font-weight="700" fill="${c.accent}">Sequência atual</text>
-  <text x="247.5" y="166" text-anchor="middle" ${font} font-size="12" fill="${c.muted}">${range(s.current.start, s.current.end)}</text>
-  ${col(412.5, s.longest.len, "Maior sequência", range(s.longest.start, s.longest.end))}
+  const font = `font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif"`;
+  const colW = WIDTH / 3;
+  const x = (i) => colW * i + colW / 2;
+  const side = (cx, value, label, sub) => `
+  <text x="${cx}" y="112" text-anchor="middle" ${font} font-size="28" font-weight="700" fill="${c.text}">${value}</text>
+  <text x="${cx}" y="142" text-anchor="middle" ${font} font-size="14" font-weight="600" fill="${c.text}">${label}</text>
+  <text x="${cx}" y="164" text-anchor="middle" ${font} font-size="12" fill="${c.muted}">${sub}</text>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" fill="none" role="img" aria-label="Sequência de contribuições">
+  <text x="25" y="35" ${font} font-size="18" font-weight="600" fill="${c.title}">Sequência de contribuições</text>
+  <line x1="${colW}" y1="62" x2="${colW}" y2="172" stroke="${c.line}"/>
+  <line x1="${colW * 2}" y1="62" x2="${colW * 2}" y2="172" stroke="${c.line}"/>${side(x(0), s.total.toLocaleString("pt-BR"), "Total de contribuições", range(s.firstDate, s.lastDate))}
+  <circle cx="${x(1)}" cy="102" r="34" stroke="${c.ring}" stroke-width="5"/>
+  <text x="${x(1)}" y="112" text-anchor="middle" ${font} font-size="28" font-weight="700" fill="${c.text}">${s.current.len}</text>
+  <text x="${x(1)}" y="160" text-anchor="middle" ${font} font-size="14" font-weight="700" fill="${c.ring}">Sequência atual</text>
+  <text x="${x(1)}" y="180" text-anchor="middle" ${font} font-size="12" fill="${c.muted}">${range(s.current.start, s.current.end)}</text>${side(x(2), s.longest.len, "Maior sequência", range(s.longest.start, s.longest.end))}
 </svg>
 `;
 }
