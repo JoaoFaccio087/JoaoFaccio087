@@ -43,12 +43,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000&locale=pt-br&cache_seconds=86400" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=JoaoFaccio087&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&locale=pt-br&cache_seconds=86400" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="155" src="./profile/stats.svg" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&locale=pt-br&cache_seconds=86400" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFaccio087&layout=compact&hide_border=true&bg_color=00000000&locale=pt-br&cache_seconds=86400" alt="linguagens" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="155" src="./profile/top-langs.svg" alt="linguagens" />
   </picture>
 </div>
 
@@ -56,8 +56,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JoaoFaccio087&hide_border=true&theme=dark&background=00000000&locale=pt_BR" />
-    <img src="https://streak-stats.demolab.com?user=JoaoFaccio087&hide_border=true&background=00000000&locale=pt_BR" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <img src="./profile/streak.svg" alt="streak" />
   </picture>
 </div>
 
