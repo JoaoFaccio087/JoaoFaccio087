@@ -1,17 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Sequência de contribuições">
-  <rect width="495" height="195" rx="6" fill="none"/>
-  <line x1="165" y1="40" x2="165" y2="155" stroke="#d0d7de"/>
-  <line x1="330" y1="40" x2="330" y2="155" stroke="#d0d7de"/>
-  <circle cx="247.5" cy="78" r="40" fill="none" stroke="#2da44e" stroke-width="5"/>
-  
-    <text x="82.5" y="88" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="28" font-weight="700" fill="#1f2328">698</text>
-    <text x="82.5" y="122" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#1f2328">Total de contribuições</text>
-    <text x="82.5" y="144" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" fill="#59636e">5 set 2024 – 5 nov 2026</text>
-  <text x="247.5" y="88" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="28" font-weight="700" fill="#1f2328">2</text>
-  <text x="247.5" y="146" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#1a7f37">Sequência atual</text>
-  <text x="247.5" y="166" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" fill="#59636e">4 nov – 5 nov 2026</text>
-  
-    <text x="412.5" y="88" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="28" font-weight="700" fill="#1f2328">20</text>
-    <text x="412.5" y="122" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#1f2328">Maior sequência</text>
-    <text x="412.5" y="144" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" fill="#59636e">29 jun – 18 jul 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="804" height="195" viewBox="0 0 804 195" fill="none" role="img" aria-label="Sequência de contribuições">
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#2f80ed">Sequência de contribuições</text>
+  <line x1="268" y1="62" x2="268" y2="172" stroke="#d0d7de"/>
+  <line x1="536" y1="62" x2="536" y2="172" stroke="#d0d7de"/>
+  <text x="134" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#434d58">699</text>
+  <text x="134" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#434d58">Total de contribuições</text>
+  <text x="134" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#6e7781">5 set 2024 – 5 nov 2026</text>
+  <circle cx="402" cy="102" r="34" stroke="#2f80ed" stroke-width="5"/>
+  <text x="402" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#434d58">2</text>
+  <text x="402" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#2f80ed">Sequência atual</text>
+  <text x="402" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#6e7781">4 nov – 5 nov 2026</text>
+  <text x="670" y="112" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#434d58">20</text>
+  <text x="670" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#434d58">Maior sequência</text>
+  <text x="670" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#6e7781">29 jun – 18 jul 2026</text>
 </svg>

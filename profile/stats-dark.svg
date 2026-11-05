@@ -1,15 +1,15 @@
 
       <svg
-        width="520"
+        width="400"
         height="195"
-        viewBox="0 0 520 195"
+        viewBox="0 0 400 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estat&#237;sticas do GitHub de Jo&#227;o Faccio, Rank: C+</title>
-        <desc id="descId">Total de estrelas: 3, Total de Commits  (Ano passado) : 687, Total de PRs: 1, Total de Issues: 0, Contribuiu para (ano passado): 1</desc>
+        <title id="titleId">Estat&#237;sticas do GitHub, Rank: C+</title>
+        <desc id="descId">Total de estrelas: 3, Total de Commits  (Ano passado) : 688, Total de PRs: 1, Total de Issues: 0, Contribuiu para (ano passado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 202.21378915235127;
+        stroke-dashoffset: 202.19652514100744;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="519"
+          width="399"
           fill="#00000000"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Estat&#237;sticas do GitHub de Jo&#227;o Faccio</text>
+      >Estat&#237;sticas do GitHub</text>
     </g>
       </g>
     
@@ -143,18 +143,7 @@
           transform="translate(0, 55)"
         >
           
-    <g data-testid="rank-circle"
-          transform="translate(443.5, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
-        </text>
-      
-        </g>
-      </g>
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -184,7 +173,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >687</text>
+      >688</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
